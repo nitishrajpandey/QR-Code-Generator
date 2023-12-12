@@ -11,7 +11,7 @@ function QrcodeBox() {
       ) : (
         <QRCode
           value={value}
-          fgColor="blue"
+          fgColor="#4CB8C4"
           bgColor="white"
           className="border border-[#DBEE] p-5 rounded-xl"
         />
